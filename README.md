@@ -4,7 +4,8 @@ Objetivo: Identificar as classes, atributos e métodos através da interpretaç�
 
 ### Exercícios
 
-1) Você está desenvolvendo um sistema de cadastro de clientes para uma loja. O objetivo é armazenar as informações essenciais de cada cliente, como nome, email e telefone. Além disso, os clientes podem realizar compras, e o sistema deve registrar o valor total de cada compra realizada. Para isso, o sistema deve ser capaz de gereniar esses dados de forma eficiente, permitindo que as compras sejam associados a cada cliente e que o valor total seja armazenado corretamente.
+#### 1
+Você está desenvolvendo um sistema de cadastro de clientes para uma loja. O objetivo é armazenar as informações essenciais de cada cliente, como nome, email e telefone. Além disso, os clientes podem realizar compras, e o sistema deve registrar o valor total de cada compra realizada. Para isso, o sistema deve ser capaz de gereniar esses dados de forma eficiente, permitindo que as compras sejam associados a cada cliente e que o valor total seja armazenado corretamente.
 
 - Classe: Clientes
 - Atributo: Nome, email, Telefone
