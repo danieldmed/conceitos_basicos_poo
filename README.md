@@ -29,7 +29,7 @@ Objetivo: Identificar as classes, atributos e métodos através da interpretaç�
 
 - Classe: Banco
 - Atributo: Conta Bancária, Saque, Depósito, Transferência
-- Objeto: 
+- Objeto: 12345678-9, R$ 50,00, R$ 750,00, R$ 33,90
 - Método: sacar, depositar, transferir, cadastrar
 
 5) Você está criando um sistema para uma locadora de veículos. Cada veículo possui um modelo e um valor diário de aluguel. O sistema deve ser capaz de calcular o valor total do aluguel com base no número de dias que o veículo será alugado. O objetivo é permitir que o cliente possa ver o valor total de sua locação com facilidade e sem erros.
