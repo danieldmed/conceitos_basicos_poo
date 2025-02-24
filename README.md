@@ -28,9 +28,9 @@ Objetivo: Identificar as classes, atributos e métodos através da interpretaç�
 4) Você precisa implementar uma classe chamada Banco, que simule as operações realizadas por uma instituição financeira. O banco deve ser capaz de cadastrar clientes, abrir contas bancárias e realizar operações como saques, depósitos e transferências entre as contas. O sistema deve permitir que cada cliente tenha sua conta bancária e realize transações de maneira simples e eficiente.
 
 - Classe: Banco
-- Atributo: Conta Bancária, Saque, Depósito, Transferência
+- Atributo: Conta Bancária, Cliente, Saque, Depósito, Transferência
 - Objeto: 12345678-9, R$ 50,00, R$ 750,00, R$ 33,90
-- Método: sacar, depositar, transferir, cadastrar
+- Método: sacar, Daniel, Depositar, Transferir, Cadastrar
 
 5) Você está criando um sistema para uma locadora de veículos. Cada veículo possui um modelo e um valor diário de aluguel. O sistema deve ser capaz de calcular o valor total do aluguel com base no número de dias que o veículo será alugado. O objetivo é permitir que o cliente possa ver o valor total de sua locação com facilidade e sem erros.
 
